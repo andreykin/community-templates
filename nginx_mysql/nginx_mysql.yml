@@ -470,7 +470,7 @@ spec:
           organization = "$INFLUX_ORG"
 
           ## Destination bucket to write into.
-          bucket = "website"
+          bucket = "nginx_mysql"
 
         ###############################################################################
         #                            PROCESSOR PLUGINS                                #
